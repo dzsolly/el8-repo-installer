@@ -35,6 +35,7 @@ Specializes in hardware-related packages such as kernel modules and drivers (e.g
 Before using this script, you need a RHEL 8.x or compatible system installed. You can download official ISO images from the following sources:
 
 RHEL 8.x – Red Hat Customer Portal - https://developers.redhat.com/products/rhel/download#publicandprivatecloudreadyrhelimages
+While Red Hat Enterprise Linux (RHEL) is generally a subscription-based distribution, you can access it for free through the Red Hat Developer Subscription. This provides full access to RHEL 8.x for development and testing purposes, but is not intended for production servers.
 
 AlmaLinux 8.x – AlmaLinux Downloads - https://almalinux.org/get-almalinux/
 
@@ -113,11 +114,3 @@ sudo reboot
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-🆓 Free Access to RHEL
-
-While Red Hat Enterprise Linux (RHEL) is generally a subscription-based distribution, you can access it for free through the Red Hat Developer Subscription. This provides full access to RHEL 8.x for development and testing purposes, but is not intended for production servers.
-
-
