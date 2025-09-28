@@ -46,11 +46,6 @@ Oracle Linux 8.x – Oracle Linux Downloads - https://yum.oracle.com/oracle-linu
 
 ⚠️ Note: Make sure to select the version matching your system (e.g., 8.x) and the desktop edition if you are using this script in a desktop environment.
 
----
-
-🆓 Free Access to RHEL
-
-While Red Hat Enterprise Linux (RHEL) is generally a subscription-based distribution, you can access it for free through the Red Hat Developer Subscription. This provides full access to RHEL 8.x for development and testing purposes, but is not intended for production servers.
 
 ---
 
@@ -118,4 +113,11 @@ sudo reboot
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+🆓 Free Access to RHEL
+
+While Red Hat Enterprise Linux (RHEL) is generally a subscription-based distribution, you can access it for free through the Red Hat Developer Subscription. This provides full access to RHEL 8.x for development and testing purposes, but is not intended for production servers.
+
 
