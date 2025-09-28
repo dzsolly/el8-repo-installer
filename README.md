@@ -55,7 +55,7 @@ Oracle Linux 8.x – Oracle Linux Downloads - https://yum.oracle.com/oracle-linu
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rhel8-repo-installer.git
+   git clone https://github.com/dzsolly/el8-repo-installer.git
    cd rhel8-repo-installer
    ```
 
