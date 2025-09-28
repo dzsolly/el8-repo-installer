@@ -30,6 +30,30 @@ Specializes in hardware-related packages such as kernel modules and drivers (e.g
 
 ---
 
+💻 Getting the Base System ISO
+
+Before using this script, you need a RHEL 8.x or compatible system installed. You can download official ISO images from the following sources:
+
+RHEL 8.x – Red Hat Customer Portal - https://developers.redhat.com/products/rhel/download#publicandprivatecloudreadyrhelimages
+
+AlmaLinux 8.x – AlmaLinux Downloads - https://almalinux.org/get-almalinux/
+
+Rocky Linux 8.x – Rocky Linux Downloads - https://rockylinux.org/download
+
+EuroLinux 8.x – EuroLinux Downloads (Discontinued)
+
+Oracle Linux 8.x – Oracle Linux Downloads - https://yum.oracle.com/oracle-linux-isos.html
+
+⚠️ Note: Make sure to select the version matching your system (e.g., 8.x) and the desktop edition if you are using this script in a desktop environment.
+
+---
+
+🆓 Free Access to RHEL
+
+While Red Hat Enterprise Linux (RHEL) is generally a subscription-based distribution, you can access it for free through the Red Hat Developer Subscription. This provides full access to RHEL 8.x for development and testing purposes, but is not intended for production servers.
+
+---
+
 ## 🚀 Installation Steps
 
 1. Clone this repository:
