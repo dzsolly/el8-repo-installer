@@ -53,6 +53,17 @@ Specializes in hardware-related packages such as kernel modules and drivers (e.g
 
 4. Choose which repository (or all) you want to enable.
 
+5. After installation:
+If any packages were installed or repositories enabled, it's recommended to run:
+
+```bash
+sudo dnf update
+ ```
+6. Then reboot your system to ensure all changes take effect:
+```bash
+sudo reboot
+
+ ```
 ---
 
 ## ⚡ Example Use Cases
