@@ -1,4 +1,4 @@
-```bash
+
 #!/bin/bash
 
 # Repository Installer Script for RHEL 8.x and Compatible Distros
@@ -77,4 +77,4 @@ esac
 
 echo
 echo "Installation complete!"
-```
+
